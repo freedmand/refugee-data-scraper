@@ -1,0 +1,53 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 24 Mar 2011,To: 24 Mar 2011,Alabama,CY 2011,1,Iraq,1,Mobile,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Colorado,CY 2011,1,Eritrea,1,Aurora,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Florida,CY 2011,2,Cuba,1,Tampa,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Florida,CY 2011,2,Ethiopia,1,Jacksonville,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Georgia,CY 2011,7,Burma,7,Decatur,7,62
+From: 24 Mar 2011,To: 24 Mar 2011,Illinois,CY 2011,1,Burma,1,Rock Island,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Indiana,CY 2011,1,Eritrea,1,Indianapolis,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Kentucky,CY 2011,3,Somalia,3,Bowling Green,3,62
+From: 24 Mar 2011,To: 24 Mar 2011,Massachusetts,CY 2011,8,Burma,8,West Springfield,8,62
+From: 24 Mar 2011,To: 24 Mar 2011,Michigan,CY 2011,1,Iraq,1,Madison Heights,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Minnesota,CY 2011,2,Ethiopia,2,Minneapolis,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,New York,CY 2011,4,Burma,4,Rensselaer,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Ohio,CY 2011,3,Burma,3,Columbus,3,62
+From: 24 Mar 2011,To: 24 Mar 2011,Oregon,CY 2011,4,Somalia,4,Portland,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Pennsylvania,CY 2011,4,Burma,4,Lancaster,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Pennsylvania,CY 2011,4,Burma,4,Philadelphia,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Rhode Island,CY 2011,1,Bhutan,1,Providence,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Tennessee,CY 2011,2,Burma,2,Memphis,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Texas,CY 2011,4,Bhutan,2,Dallas,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Texas,CY 2011,4,Burma,2,San Antonio,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Virginia,CY 2011,2,Burma,2,Charlottesville,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Washington,CY 2011,11,Somalia,11,Kent,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Washington,CY 2011,11,Somalia,11,Seattle,7,62
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 24 Mar 2011,To: 24 Mar 2011,Bhutan,CY 2011,3,Rhode Island,1,Providence,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Bhutan,CY 2011,3,Texas,2,Dallas,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Georgia,7,Decatur,7,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Illinois,1,Rock Island,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Massachusetts,8,West Springfield,8,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,New York,4,Rensselaer,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Ohio,3,Columbus,3,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Pennsylvania,4,Lancaster,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Pennsylvania,4,Philadelphia,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Tennessee,2,Memphis,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Texas,2,San Antonio,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Burma,CY 2011,33,Virginia,2,Charlottesville,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Cuba,CY 2011,1,Florida,1,Tampa,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Eritrea,CY 2011,2,Colorado,1,Aurora,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Eritrea,CY 2011,2,Indiana,1,Indianapolis,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Ethiopia,CY 2011,3,Florida,1,Jacksonville,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Ethiopia,CY 2011,3,Minnesota,2,Minneapolis,2,62
+From: 24 Mar 2011,To: 24 Mar 2011,Iraq,CY 2011,2,Alabama,1,Mobile,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Iraq,CY 2011,2,Michigan,1,Madison Heights,1,62
+From: 24 Mar 2011,To: 24 Mar 2011,Somalia,CY 2011,18,Kentucky,3,Bowling Green,3,62
+From: 24 Mar 2011,To: 24 Mar 2011,Somalia,CY 2011,18,Oregon,4,Portland,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Somalia,CY 2011,18,Washington,11,Kent,4,62
+From: 24 Mar 2011,To: 24 Mar 2011,Somalia,CY 2011,18,Washington,11,Seattle,7,62
+

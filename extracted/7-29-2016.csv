@@ -1,0 +1,39 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 29 Jul 2016,To: 29 Jul 2016,Arizona,CY 2016,31,Dem. Rep. Congo,10,Phoenix,10,118
+From: 29 Jul 2016,To: 29 Jul 2016,Arizona,CY 2016,31,Syria,21,Phoenix,13,118
+From: 29 Jul 2016,To: 29 Jul 2016,Arizona,CY 2016,31,Syria,21,Tucson,8,118
+From: 29 Jul 2016,To: 29 Jul 2016,Florida,CY 2016,6,Syria,6,Orlando,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Illinois,CY 2016,42,Burma,30,Chicago,26,118
+From: 29 Jul 2016,To: 29 Jul 2016,Illinois,CY 2016,42,Burma,30,Wheaton,4,118
+From: 29 Jul 2016,To: 29 Jul 2016,Illinois,CY 2016,42,Sri Lanka (Ceylon),3,Chicago,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Illinois,CY 2016,42,Syria,9,Chicago,9,118
+From: 29 Jul 2016,To: 29 Jul 2016,Michigan,CY 2016,19,Iraq,6,Troy,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Michigan,CY 2016,19,Syria,13,Battle Creek,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Michigan,CY 2016,19,Syria,13,Grand Rapids,7,118
+From: 29 Jul 2016,To: 29 Jul 2016,Missouri,CY 2016,11,Syria,11,Columbia,4,118
+From: 29 Jul 2016,To: 29 Jul 2016,Missouri,CY 2016,11,Syria,11,Saint Louis,7,118
+From: 29 Jul 2016,To: 29 Jul 2016,Texas,CY 2016,5,Iraq,5,Dallas,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Texas,CY 2016,5,Iraq,5,Grand Prairie,2,118
+From: 29 Jul 2016,To: 29 Jul 2016,Wisconsin,CY 2016,4,Burma,4,Milwaukee,4,118
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 29 Jul 2016,To: 29 Jul 2016,Burma,CY 2016,34,Illinois,30,Chicago,26,118
+From: 29 Jul 2016,To: 29 Jul 2016,Burma,CY 2016,34,Illinois,30,Wheaton,4,118
+From: 29 Jul 2016,To: 29 Jul 2016,Burma,CY 2016,34,Wisconsin,4,Milwaukee,4,118
+From: 29 Jul 2016,To: 29 Jul 2016,Dem. Rep. Congo,CY 2016,10,Arizona,10,Phoenix,10,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,CY 2016,11,Michigan,6,Troy,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,CY 2016,11,Texas,5,Dallas,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,CY 2016,11,Texas,5,Grand Prairie,2,118
+From: 29 Jul 2016,To: 29 Jul 2016,Sri Lanka (Ceylon),CY 2016,3,Illinois,3,Chicago,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Arizona,21,Phoenix,13,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Arizona,21,Tucson,8,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Florida,6,Orlando,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Illinois,9,Chicago,9,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Michigan,13,Battle Creek,6,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Michigan,13,Grand Rapids,7,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Missouri,11,Columbia,4,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,CY 2016,60,Missouri,11,Saint Louis,7,118
+

@@ -1,0 +1,77 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 12 Jan 2015,To: 12 Jan 2015,Alabama,CY 2015,3,Iraq,3,Mobile,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Arizona,CY 2015,25,Eritrea,1,Glendale,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Arizona,CY 2015,25,Iraq,16,Glendale,12,122
+From: 12 Jan 2015,To: 12 Jan 2015,Arizona,CY 2015,25,Iraq,16,Phoenix,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Arizona,CY 2015,25,Somalia,8,Phoenix,8,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Carmichael,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,El Cajon,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Glendale,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,La Mesa,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Los Angeles,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Los Gatos,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Oakland,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Sacramento,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,San Diego,8,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,San Jose,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,California,CY 2015,29,Iraq,29,Torrance,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Colorado,CY 2015,8,Iraq,2,Aurora,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Colorado,CY 2015,8,Iraq,2,Colorado Springs,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Colorado,CY 2015,8,Somalia,6,Greeley,6,122
+From: 12 Jan 2015,To: 12 Jan 2015,Idaho,CY 2015,1,Iraq,1,Boise,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Minnesota,CY 2015,9,Somalia,9,Minneapolis,9,122
+From: 12 Jan 2015,To: 12 Jan 2015,Missouri,CY 2015,4,Iraq,4,Kansas City,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Missouri,CY 2015,4,Iraq,4,Saint Louis,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Nebraska,CY 2015,5,Iraq,5,Lincoln,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Nevada,CY 2015,5,Iran,5,Las Vegas,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,North Dakota,CY 2015,4,Iraq,4,Fargo,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Oregon,CY 2015,5,Iran,3,Portland,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Oregon,CY 2015,5,Iraq,2,Portland,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,Tennessee,CY 2015,1,Eritrea,1,Nashville,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Texas,CY 2015,13,Iraq,13,Austin,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Texas,CY 2015,13,Iraq,13,Dallas,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,Texas,CY 2015,13,Iraq,13,Houston,6,122
+From: 12 Jan 2015,To: 12 Jan 2015,Texas,CY 2015,13,Iraq,13,San Antonio,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Washington,CY 2015,5,Iran,5,Seattle,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Wisconsin,CY 2015,5,Iraq,5,Milwaukee,5,122
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 12 Jan 2015,To: 12 Jan 2015,Eritrea,CY 2015,2,Arizona,1,Glendale,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Eritrea,CY 2015,2,Tennessee,1,Nashville,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iran,CY 2015,13,Nevada,5,Las Vegas,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iran,CY 2015,13,Oregon,3,Portland,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iran,CY 2015,13,Washington,5,Seattle,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Alabama,3,Mobile,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Arizona,16,Glendale,12,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Arizona,16,Phoenix,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Carmichael,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,El Cajon,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Glendale,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,La Mesa,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Los Angeles,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Los Gatos,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Oakland,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Sacramento,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,San Diego,8,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,San Jose,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,California,29,Torrance,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Colorado,2,Aurora,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Colorado,2,Colorado Springs,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Idaho,1,Boise,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Missouri,4,Kansas City,3,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Missouri,4,Saint Louis,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Nebraska,5,Lincoln,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,North Dakota,4,Fargo,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Oregon,2,Portland,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Texas,13,Austin,1,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Texas,13,Dallas,2,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Texas,13,Houston,6,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Texas,13,San Antonio,4,122
+From: 12 Jan 2015,To: 12 Jan 2015,Iraq,CY 2015,84,Wisconsin,5,Milwaukee,5,122
+From: 12 Jan 2015,To: 12 Jan 2015,Somalia,CY 2015,23,Arizona,8,Phoenix,8,122
+From: 12 Jan 2015,To: 12 Jan 2015,Somalia,CY 2015,23,Colorado,6,Greeley,6,122
+From: 12 Jan 2015,To: 12 Jan 2015,Somalia,CY 2015,23,Minnesota,9,Minneapolis,9,122
+

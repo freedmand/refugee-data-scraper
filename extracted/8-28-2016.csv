@@ -1,0 +1,55 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 28 Aug 2016,To: 28 Aug 2016,California,CY 2016,24,Iraq,1,Oakland,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,California,CY 2016,24,Syria,23,Oakland,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,California,CY 2016,24,Syria,23,Sacramento,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,California,CY 2016,24,Syria,23,San Diego,7,126
+From: 28 Aug 2016,To: 28 Aug 2016,California,CY 2016,24,Syria,23,Turlock,8,126
+From: 28 Aug 2016,To: 28 Aug 2016,Florida,CY 2016,15,Syria,15,Jacksonville,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Florida,CY 2016,15,Syria,15,Orlando,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Florida,CY 2016,15,Syria,15,Tampa,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iowa,CY 2016,6,Sudan,6,Des Moines,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Maine,CY 2016,4,Iraq,4,Westbrook,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Maryland,CY 2016,6,Syria,6,Riverdale,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Michigan,CY 2016,1,Somalia,1,Lansing,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,New York,CY 2016,6,Sudan,6,Buffalo,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,North Carolina,CY 2016,17,Sudan,4,High Point,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,North Carolina,CY 2016,17,Syria,13,Durham,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,North Carolina,CY 2016,17,Syria,13,Greensboro,7,126
+From: 28 Aug 2016,To: 28 Aug 2016,Ohio,CY 2016,2,Ethiopia,2,Columbus,2,126
+From: 28 Aug 2016,To: 28 Aug 2016,Pennsylvania,CY 2016,8,Syria,8,Erie,8,126
+From: 28 Aug 2016,To: 28 Aug 2016,Tennessee,CY 2016,12,Iraq,1,Chattanooga,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,Tennessee,CY 2016,12,Syria,11,Nashville,11,126
+From: 28 Aug 2016,To: 28 Aug 2016,Texas,CY 2016,24,Iraq,21,Houston,17,126
+From: 28 Aug 2016,To: 28 Aug 2016,Texas,CY 2016,24,Iraq,21,San Antonio,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Texas,CY 2016,24,Sudan,3,Houston,3,126
+From: 28 Aug 2016,To: 28 Aug 2016,Wisconsin,CY 2016,1,Sudan,1,Fond Du Lac,1,126
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 28 Aug 2016,To: 28 Aug 2016,Ethiopia,CY 2016,2,Ohio,2,Columbus,2,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iraq,CY 2016,27,California,1,Oakland,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iraq,CY 2016,27,Maine,4,Westbrook,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iraq,CY 2016,27,Tennessee,1,Chattanooga,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iraq,CY 2016,27,Texas,21,Houston,17,126
+From: 28 Aug 2016,To: 28 Aug 2016,Iraq,CY 2016,27,Texas,21,San Antonio,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Somalia,CY 2016,1,Michigan,1,Lansing,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,Sudan,CY 2016,20,Iowa,6,Des Moines,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Sudan,CY 2016,20,New York,6,Buffalo,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Sudan,CY 2016,20,North Carolina,4,High Point,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Sudan,CY 2016,20,Texas,3,Houston,3,126
+From: 28 Aug 2016,To: 28 Aug 2016,Sudan,CY 2016,20,Wisconsin,1,Fond Du Lac,1,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,California,23,Oakland,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,California,23,Sacramento,4,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,California,23,San Diego,7,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,California,23,Turlock,8,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Florida,15,Jacksonville,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Florida,15,Orlando,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Florida,15,Tampa,5,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Maryland,6,Riverdale,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,North Carolina,13,Durham,6,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,North Carolina,13,Greensboro,7,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Pennsylvania,8,Erie,8,126
+From: 28 Aug 2016,To: 28 Aug 2016,Syria,CY 2016,76,Tennessee,11,Nashville,11,126
+

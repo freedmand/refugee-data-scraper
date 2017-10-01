@@ -1,0 +1,57 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Afghanistan,5,Sacramento,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Afghanistan,5,San Diego,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iran,6,Alhambra,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iran,6,Sacramento,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iran,6,San Jose,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iran,6,Tujunga,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iraq,15,Sacramento,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,California,CY 2015,26,Iraq,15,San Diego,10,63
+From: 03 Aug 2015,To: 03 Aug 2015,Colorado,CY 2015,1,Somalia,1,Denver,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Florida,CY 2015,3,Sudan,3,Jacksonville,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Idaho,CY 2015,4,Afghanistan,2,Boise,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Idaho,CY 2015,4,Iraq,1,Boise,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Idaho,CY 2015,4,Sudan,1,Twin Falls,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Indiana,CY 2015,4,Sudan,4,Indianapolis,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iowa,CY 2015,5,Sudan,5,West Des Moines,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Missouri,CY 2015,1,Somalia,1,Kansas City,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Nebraska,CY 2015,1,Sudan,1,Lincoln,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Nevada,CY 2015,1,Sudan,1,Las Vegas,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Oregon,CY 2015,5,Iraq,5,Beaverton,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Tennessee,CY 2015,1,Somalia,1,Nashville,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Texas,CY 2015,3,Eritrea,2,Dallas,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Texas,CY 2015,3,Sudan,1,Houston,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Washington,CY 2015,8,Iran,1,Seattle,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Washington,CY 2015,8,Iraq,7,Seattle,6,63
+From: 03 Aug 2015,To: 03 Aug 2015,Washington,CY 2015,8,Iraq,7,Spokane,1,63
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 03 Aug 2015,To: 03 Aug 2015,Afghanistan,CY 2015,7,California,5,Sacramento,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Afghanistan,CY 2015,7,California,5,San Diego,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,Afghanistan,CY 2015,7,Idaho,2,Boise,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Eritrea,CY 2015,2,Texas,2,Dallas,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,CY 2015,7,California,6,Alhambra,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,CY 2015,7,California,6,Sacramento,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,CY 2015,7,California,6,San Jose,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,CY 2015,7,California,6,Tujunga,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,CY 2015,7,Washington,1,Seattle,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,California,15,Sacramento,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,California,15,San Diego,10,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,Idaho,1,Boise,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,Oregon,5,Beaverton,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,Washington,7,Seattle,6,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,CY 2015,28,Washington,7,Spokane,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Somalia,CY 2015,3,Colorado,1,Denver,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Somalia,CY 2015,3,Missouri,1,Kansas City,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Somalia,CY 2015,3,Tennessee,1,Nashville,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Florida,3,Jacksonville,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Idaho,1,Twin Falls,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Indiana,4,Indianapolis,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Iowa,5,West Des Moines,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Nebraska,1,Lincoln,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Nevada,1,Las Vegas,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,CY 2015,16,Texas,1,Houston,1,63
+

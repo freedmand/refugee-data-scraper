@@ -1,0 +1,61 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 09 Aug 2013,To: 09 Aug 2013,Alaska,CY 2013,2,Sudan,2,Anchorage,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Arizona,CY 2013,1,Ethiopia,1,Tucson,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Connecticut,CY 2013,1,Eritrea,1,Derby,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Florida,CY 2013,1,Sudan,1,Jacksonville,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Georgia,CY 2013,3,Somalia,2,Atlanta,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Georgia,CY 2013,3,Sudan,1,Atlanta,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Kansas,CY 2013,2,Sudan,2,Wichita,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Maryland,CY 2013,1,Eritrea,1,Silver Spring,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Massachusetts,CY 2013,1,Chad,1,South Boston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Nevada,CY 2013,1,Sudan,1,Las Vegas,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,New Jersey,CY 2013,1,Iraq,1,Elizabeth,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,New York,CY 2013,3,Somalia,2,Utica,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,New York,CY 2013,3,Sudan,1,Utica,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,North Carolina,CY 2013,1,Eritrea,1,High Point,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Ohio,CY 2013,3,Eritrea,1,Dayton,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Ohio,CY 2013,3,Somalia,1,Columbus,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Ohio,CY 2013,3,Sudan,1,Dayton,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Oregon,CY 2013,1,Somalia,1,Portland,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Rhode Island,CY 2013,5,Somalia,5,Providence,5,37
+From: 09 Aug 2013,To: 09 Aug 2013,Tennessee,CY 2013,2,Somalia,2,Nashville,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Texas,CY 2013,6,Ethiopia,1,Houston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Texas,CY 2013,6,Somalia,3,Fort Worth,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Texas,CY 2013,6,Somalia,3,Houston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Texas,CY 2013,6,Sudan,2,Dallas,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Texas,CY 2013,6,Sudan,2,Fort Worth,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Washington,CY 2013,1,Somalia,1,Seattle,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Wisconsin,CY 2013,1,Somalia,1,Milwaukee,1,37
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 09 Aug 2013,To: 09 Aug 2013,Chad,CY 2013,1,Massachusetts,1,South Boston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Eritrea,CY 2013,4,Connecticut,1,Derby,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Eritrea,CY 2013,4,Maryland,1,Silver Spring,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Eritrea,CY 2013,4,North Carolina,1,High Point,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Eritrea,CY 2013,4,Ohio,1,Dayton,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Ethiopia,CY 2013,2,Arizona,1,Tucson,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Ethiopia,CY 2013,2,Texas,1,Houston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Iraq,CY 2013,1,New Jersey,1,Elizabeth,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Georgia,2,Atlanta,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,New York,2,Utica,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Ohio,1,Columbus,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Oregon,1,Portland,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Rhode Island,5,Providence,5,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Tennessee,2,Nashville,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Texas,3,Fort Worth,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Texas,3,Houston,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Washington,1,Seattle,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Somalia,CY 2013,18,Wisconsin,1,Milwaukee,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Alaska,2,Anchorage,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Florida,1,Jacksonville,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Georgia,1,Atlanta,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Kansas,2,Wichita,2,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Nevada,1,Las Vegas,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,New York,1,Utica,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Ohio,1,Dayton,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Texas,2,Dallas,1,37
+From: 09 Aug 2013,To: 09 Aug 2013,Sudan,CY 2013,11,Texas,2,Fort Worth,1,37
+
