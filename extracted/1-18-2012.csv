@@ -1,80 +1,153 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Runtime Error</title>
-        <meta name="viewport" content="width=device-width" />
-        <style>
-         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
-         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
-         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
-         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
-         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
-         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
-         .marker {font-weight: bold; color: black;text-decoration: none;}
-         .version {color: gray;}
-         .error {margin-bottom: 10px;}
-         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
-         @media screen and (max-width: 639px) {
-          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
-         }
-         @media screen and (max-width: 479px) {
-          pre { width: 280px; }
-         }
-        </style>
-    </head>
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
 
-    <body bgcolor="white">
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 18 Jan 2012,To: 18 Jan 2012,Alabama,CY 2012,1,Burma,1,Mobile,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Arizona,CY 2012,25,Burma,4,Phoenix,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Arizona,CY 2012,25,Iran,5,Phoenix,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Arizona,CY 2012,25,Iraq,2,Phoenix,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Arizona,CY 2012,25,Somalia,14,Tucson,14,283
+From: 18 Jan 2012,To: 18 Jan 2012,California,CY 2012,14,Burma,5,Sacramento,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,California,CY 2012,14,Burma,5,San Diego,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,California,CY 2012,14,Moldova,9,North Highlands,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Connecticut,CY 2012,11,Bhutan,7,Hartford,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Connecticut,CY 2012,11,Burma,4,New Haven,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Florida,CY 2012,9,Burma,7,Tampa,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Florida,CY 2012,9,Ethiopia,2,Orlando,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Georgia,CY 2012,21,Burma,10,Atlanta,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Georgia,CY 2012,21,Burma,10,Clarkston,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,Georgia,CY 2012,21,Ethiopia,4,Atlanta,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Georgia,CY 2012,21,Moldova,4,Lawrenceville,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Georgia,CY 2012,21,Somalia,3,Atlanta,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Idaho,CY 2012,5,Burma,1,Boise,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Idaho,CY 2012,5,Dem. Rep. Congo,4,Boise,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Illinois,CY 2012,2,Burma,2,Chicago,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Illinois,CY 2012,2,Burma,2,Rockford,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Indiana,CY 2012,9,Burma,9,Fort Wayne,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,Indiana,CY 2012,9,Burma,9,Indianapolis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iowa,CY 2012,1,Burma,1,Des Moines,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Kentucky,CY 2012,6,Burma,6,Bowling Green,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Kentucky,CY 2012,6,Burma,6,Louisville,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Kentucky,CY 2012,6,Burma,6,Owensboro,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Louisiana,CY 2012,1,Burma,1,Baton Rouge,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Massachusetts,CY 2012,8,Burma,3,South Boston,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Massachusetts,CY 2012,8,Ethiopia,5,Springfield,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Michigan,CY 2012,27,Iraq,16,Auburn Hills,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Michigan,CY 2012,27,Iraq,16,Sterling Heights,10,283
+From: 18 Jan 2012,To: 18 Jan 2012,Michigan,CY 2012,27,Rwanda,4,Grand Rapids,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Michigan,CY 2012,27,Somalia,7,Lansing,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Minnesota,CY 2012,10,Burma,9,Minneapolis,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Minnesota,CY 2012,10,Burma,9,Saint Paul,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Minnesota,CY 2012,10,Somalia,1,Minneapolis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Missouri,CY 2012,6,Burma,6,Columbia,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Missouri,CY 2012,6,Burma,6,Kansas City,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Missouri,CY 2012,6,Burma,6,Saint Louis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Nebraska,CY 2012,1,Burma,1,Omaha,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,New Jersey,CY 2012,1,Sudan,1,East Orange,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,New York,CY 2012,15,Burma,7,Albany,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,New York,CY 2012,15,Burma,7,Buffalo,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,New York,CY 2012,15,Burma,7,Utica,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,New York,CY 2012,15,Somalia,8,Rochester,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Bhutan,12,Durham,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Bhutan,12,High Point,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Burma,9,Charlotte,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Burma,9,New Bern,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Iraq,1,Durham,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,North Carolina,CY 2012,26,Somalia,4,Raleigh,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ohio,CY 2012,10,Bhutan,4,Cuyahoga Falls,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ohio,CY 2012,10,Burma,5,Akron,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ohio,CY 2012,10,Somalia,1,Columbus,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Oregon,CY 2012,4,Iraq,4,Portland,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Pennsylvania,CY 2012,9,Bhutan,6,Erie,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Pennsylvania,CY 2012,9,Bhutan,6,Pittsburgh,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Pennsylvania,CY 2012,9,Burma,3,Philadelphia,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,South Dakota,CY 2012,3,Burma,3,Huron,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Tennessee,CY 2012,3,Burma,2,Nashville,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Tennessee,CY 2012,3,Iran,1,Antioch,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Texas,CY 2012,23,Burma,19,Amarillo,11,283
+From: 18 Jan 2012,To: 18 Jan 2012,Texas,CY 2012,23,Burma,19,Dumas,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Texas,CY 2012,23,Burma,19,Fort Worth,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Texas,CY 2012,23,Burma,19,Houston,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Texas,CY 2012,23,Iraq,4,Dallas,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Virginia,CY 2012,6,Bhutan,6,Roanoke,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Washington,CY 2012,15,Burma,1,Spokane,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Washington,CY 2012,15,Moldova,14,Spokane,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Washington,CY 2012,15,Moldova,14,Tacoma,12,283
+From: 18 Jan 2012,To: 18 Jan 2012,Wisconsin,CY 2012,11,Burma,9,Milwaukee,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Wisconsin,CY 2012,11,Somalia,2,Milwaukee,2,283
 
-            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,Connecticut,7,Hartford,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,North Carolina,12,Durham,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,North Carolina,12,High Point,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,Ohio,4,Cuyahoga Falls,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,Pennsylvania,6,Erie,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,Pennsylvania,6,Pittsburgh,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,CY 2012,35,Virginia,6,Roanoke,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Alabama,1,Mobile,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Arizona,4,Phoenix,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,California,5,Sacramento,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,California,5,San Diego,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Connecticut,4,New Haven,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Florida,7,Tampa,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Georgia,10,Atlanta,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Georgia,10,Clarkston,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Idaho,1,Boise,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Illinois,2,Chicago,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Illinois,2,Rockford,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Indiana,9,Fort Wayne,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Indiana,9,Indianapolis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Iowa,1,Des Moines,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Kentucky,6,Bowling Green,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Kentucky,6,Louisville,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Kentucky,6,Owensboro,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Louisiana,1,Baton Rouge,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Massachusetts,3,South Boston,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Minnesota,9,Minneapolis,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Minnesota,9,Saint Paul,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Missouri,6,Columbia,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Missouri,6,Kansas City,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Missouri,6,Saint Louis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Nebraska,1,Omaha,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,New York,7,Albany,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,New York,7,Buffalo,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,New York,7,Utica,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,North Carolina,9,Charlotte,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,North Carolina,9,New Bern,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Ohio,5,Akron,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Pennsylvania,3,Philadelphia,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,South Dakota,3,Huron,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Tennessee,2,Nashville,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Texas,19,Amarillo,11,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Texas,19,Dumas,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Texas,19,Fort Worth,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Texas,19,Houston,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Washington,1,Spokane,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,CY 2012,128,Wisconsin,9,Milwaukee,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Dem. Rep. Congo,CY 2012,4,Idaho,4,Boise,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ethiopia,CY 2012,11,Florida,2,Orlando,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ethiopia,CY 2012,11,Georgia,4,Atlanta,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ethiopia,CY 2012,11,Massachusetts,5,Springfield,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iran,CY 2012,6,Arizona,5,Phoenix,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iran,CY 2012,6,Tennessee,1,Antioch,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,Arizona,2,Phoenix,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,Michigan,16,Auburn Hills,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,Michigan,16,Sterling Heights,10,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,North Carolina,1,Durham,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,Oregon,4,Portland,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,CY 2012,27,Texas,4,Dallas,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,CY 2012,27,California,9,North Highlands,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,CY 2012,27,Georgia,4,Lawrenceville,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,CY 2012,27,Washington,14,Spokane,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,CY 2012,27,Washington,14,Tacoma,12,283
+From: 18 Jan 2012,To: 18 Jan 2012,Rwanda,CY 2012,4,Michigan,4,Grand Rapids,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Arizona,14,Tucson,14,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Georgia,3,Atlanta,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Michigan,7,Lansing,7,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Minnesota,1,Minneapolis,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,New York,8,Rochester,8,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,North Carolina,4,Raleigh,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Ohio,1,Columbus,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,CY 2012,40,Wisconsin,2,Milwaukee,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Sudan,CY 2012,1,New Jersey,1,East Orange,1,283
 
-            <h2> <i>Runtime Error</i> </h2></span>
-
-            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
-
-            <b> Description: </b>An application error occurred on the server. The current custom error settings for this application prevent the details of the application error from being viewed remotely (for security reasons). It could, however, be viewed by browsers running on the local server machine.
-            <br><br>
-
-            <b>Details:</b> To enable the details of this specific error message to be viewable on remote machines, please create a &lt;customErrors&gt; tag within a &quot;web.config&quot; configuration file located in the root directory of the current web application. This &lt;customErrors&gt; tag should then have its &quot;mode&quot; attribute set to &quot;Off&quot;.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;Off&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-            <b>Notes:</b> The current error page you are seeing can be replaced by a custom error page by modifying the &quot;defaultRedirect&quot; attribute of the application&#39;s &lt;customErrors&gt; configuration tag to point to a custom error page URL.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;RemoteOnly&quot; defaultRedirect=&quot;mycustompage.htm&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-    </body>
-</html>

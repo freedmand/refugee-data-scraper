@@ -1,80 +1,203 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Runtime Error</title>
-        <meta name="viewport" content="width=device-width" />
-        <style>
-         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
-         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
-         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
-         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
-         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
-         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
-         .marker {font-weight: bold; color: black;text-decoration: none;}
-         .version {color: gray;}
-         .error {margin-bottom: 10px;}
-         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
-         @media screen and (max-width: 639px) {
-          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
-         }
-         @media screen and (max-width: 479px) {
-          pre { width: 280px; }
-         }
-        </style>
-    </head>
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
 
-    <body bgcolor="white">
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 28 Sep 2016,To: 28 Sep 2016,Arizona,CY 2016,6,Dem. Rep. Congo,5,Phoenix,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Arizona,CY 2016,6,Dem. Rep. Congo,5,Tucson,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Arizona,CY 2016,6,Iraq,1,Phoenix,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Dem. Rep. Congo,6,San Diego,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Eritrea,1,Oakland,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Iran,2,Fresno,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Iran,2,Irvine,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Iraq,10,El Cajon,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,California,CY 2016,19,Iraq,10,San Diego,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Connecticut,CY 2016,12,Dem. Rep. Congo,5,Bridgeport,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Connecticut,CY 2016,12,Syria,7,New Haven,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Florida,CY 2016,29,Dem. Rep. Congo,8,Jacksonville,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Florida,CY 2016,29,Eritrea,4,Tampa,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Florida,CY 2016,29,Syria,17,Jacksonville,17,464
+From: 28 Sep 2016,To: 28 Sep 2016,Georgia,CY 2016,21,Dem. Rep. Congo,10,Atlanta,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Georgia,CY 2016,21,Dem. Rep. Congo,10,Stone Mountain,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Georgia,CY 2016,21,Iran,5,Atlanta,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Georgia,CY 2016,21,Syria,6,Atlanta,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Idaho,CY 2016,6,Dem. Rep. Congo,6,Boise,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Idaho,CY 2016,6,Dem. Rep. Congo,6,Twin Falls,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Burma,22,Chicago,13,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Burma,22,Glen Ellyn,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Burma,22,Wheaton,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,China,2,Chicago,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Iran,2,Chicago,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Ukraine,5,Chicago,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Illinois,CY 2016,31,Ukraine,5,Glendale Heights,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Indiana,CY 2016,14,Burma,14,Indianapolis,14,464
+From: 28 Sep 2016,To: 28 Sep 2016,Kansas,CY 2016,8,Somalia,1,Garden City,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Kansas,CY 2016,8,Sudan,7,Garden City,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Kentucky,CY 2016,2,Syria,2,Louisville,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Louisiana,CY 2016,4,Syria,4,New Orleans,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Maine,CY 2016,5,Dem. Rep. Congo,5,Portland,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Maryland,CY 2016,8,Burma,3,Baltimore,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Maryland,CY 2016,8,Syria,5,Baltimore,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Massachusetts,CY 2016,10,Central African Republic,3,Worcester,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Massachusetts,CY 2016,10,Dem. Rep. Congo,1,Boston,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Massachusetts,CY 2016,10,Iraq,5,Westfield,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Massachusetts,CY 2016,10,Syria,1,Lynn,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Michigan,CY 2016,20,Syria,20,Battle Creek,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Michigan,CY 2016,20,Syria,20,Clinton Township,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Michigan,CY 2016,20,Syria,20,Dearborn,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Michigan,CY 2016,20,Syria,20,Troy,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Missouri,CY 2016,3,Iraq,2,Hazelwood,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Missouri,CY 2016,3,Iraq,2,Kansas City,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Missouri,CY 2016,3,Somalia,1,Columbia,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Nebraska,CY 2016,1,Sudan,1,Omaha,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Nevada,CY 2016,9,Afghanistan,1,Las Vegas,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Nevada,CY 2016,9,Dem. Rep. Congo,5,Las Vegas,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Nevada,CY 2016,9,Eritrea,1,Las Vegas,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Nevada,CY 2016,9,Iran,2,Las Vegas,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,New Jersey,CY 2016,4,Syria,4,Camden,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,New Mexico,CY 2016,19,Dem. Rep. Congo,1,Albuquerque,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,New Mexico,CY 2016,19,Syria,18,Albuquerque,18,464
+From: 28 Sep 2016,To: 28 Sep 2016,New York,CY 2016,17,Burma,3,Utica,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,New York,CY 2016,17,Dem. Rep. Congo,2,Buffalo,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,New York,CY 2016,17,Iran,4,New York,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,New York,CY 2016,17,Somalia,2,Buffalo,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,New York,CY 2016,17,Syria,6,Brooklyn,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Chad,1,Durham,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Dem. Rep. Congo,7,New Bern,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Eritrea,2,Charlotte,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Somalia,3,High Point,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Syria,10,Durham,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Syria,10,High Point,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,North Carolina,CY 2016,32,Ukraine,9,Asheville,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ohio,CY 2016,20,Burma,1,Cincinnati,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ohio,CY 2016,20,Dem. Rep. Congo,8,Dayton,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ohio,CY 2016,20,Somalia,3,Cleveland,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ohio,CY 2016,20,Syria,8,Akron,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Oklahoma,CY 2016,1,Burma,1,Tulsa,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Oregon,CY 2016,6,Ukraine,6,Portland,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Dem. Rep. Congo,7,Philadelphia,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Eritrea,2,Lancaster,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Eritrea,2,Philadelphia,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Somalia,4,Erie,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Somalia,4,Mechanicsburg,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Pennsylvania,CY 2016,19,Syria,6,Erie,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Rhode Island,CY 2016,1,Eritrea,1,Providence,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,South Carolina,CY 2016,4,Iraq,4,Columbia,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,South Dakota,CY 2016,6,Bhutan,5,Sioux Falls,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,South Dakota,CY 2016,6,Dem. Rep. Congo,1,Sioux Falls,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Tennessee,CY 2016,19,Dem. Rep. Congo,19,Memphis,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Tennessee,CY 2016,19,Dem. Rep. Congo,19,Nashville,12,464
+From: 28 Sep 2016,To: 28 Sep 2016,Texas,CY 2016,28,Burma,3,Midland,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Texas,CY 2016,28,Dem. Rep. Congo,16,Fort Worth,16,464
+From: 28 Sep 2016,To: 28 Sep 2016,Texas,CY 2016,28,Rwanda,3,Abilene,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Texas,CY 2016,28,Syria,6,Austin,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Utah,CY 2016,2,Iran,2,Salt Lake City,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Virginia,CY 2016,9,Sudan,1,Roanoke,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Virginia,CY 2016,9,Syria,8,Newport News,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Washington,CY 2016,22,Dem. Rep. Congo,7,Kent,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Washington,CY 2016,22,Ukraine,15,Seattle,12,464
+From: 28 Sep 2016,To: 28 Sep 2016,Washington,CY 2016,22,Ukraine,15,Vancouver,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Wisconsin,CY 2016,47,Burma,33,Milwaukee,31,464
+From: 28 Sep 2016,To: 28 Sep 2016,Wisconsin,CY 2016,47,Burma,33,Sheboygan,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Wisconsin,CY 2016,47,Somalia,1,Milwaukee,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Wisconsin,CY 2016,47,Syria,13,Milwaukee,13,464
 
-            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 28 Sep 2016,To: 28 Sep 2016,Afghanistan,CY 2016,1,Nevada,1,Las Vegas,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Bhutan,CY 2016,5,South Dakota,5,Sioux Falls,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Illinois,22,Chicago,13,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Illinois,22,Glen Ellyn,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Illinois,22,Wheaton,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Indiana,14,Indianapolis,14,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Maryland,3,Baltimore,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,New York,3,Utica,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Ohio,1,Cincinnati,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Oklahoma,1,Tulsa,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Texas,3,Midland,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Wisconsin,33,Milwaukee,31,464
+From: 28 Sep 2016,To: 28 Sep 2016,Burma,CY 2016,80,Wisconsin,33,Sheboygan,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Central African Republic,CY 2016,3,Massachusetts,3,Worcester,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Chad,CY 2016,1,North Carolina,1,Durham,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,China,CY 2016,2,Illinois,2,Chicago,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Arizona,5,Phoenix,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Arizona,5,Tucson,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,California,6,San Diego,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Connecticut,5,Bridgeport,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Florida,8,Jacksonville,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Georgia,10,Atlanta,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Georgia,10,Stone Mountain,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Idaho,6,Boise,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Idaho,6,Twin Falls,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Maine,5,Portland,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Massachusetts,1,Boston,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Nevada,5,Las Vegas,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,New Mexico,1,Albuquerque,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,New York,2,Buffalo,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,North Carolina,7,New Bern,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Ohio,8,Dayton,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Pennsylvania,7,Philadelphia,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,South Dakota,1,Sioux Falls,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Tennessee,19,Memphis,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Tennessee,19,Nashville,12,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Texas,16,Fort Worth,16,464
+From: 28 Sep 2016,To: 28 Sep 2016,Dem. Rep. Congo,CY 2016,119,Washington,7,Kent,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,California,1,Oakland,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,Florida,4,Tampa,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,Nevada,1,Las Vegas,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,North Carolina,2,Charlotte,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,Pennsylvania,2,Lancaster,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,Pennsylvania,2,Philadelphia,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Eritrea,CY 2016,11,Rhode Island,1,Providence,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,California,2,Fresno,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,California,2,Irvine,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,Georgia,5,Atlanta,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,Illinois,2,Chicago,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,Nevada,2,Las Vegas,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,New York,4,New York,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iran,CY 2016,17,Utah,2,Salt Lake City,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,Arizona,1,Phoenix,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,California,10,El Cajon,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,California,10,San Diego,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,Massachusetts,5,Westfield,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,Missouri,2,Hazelwood,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,Missouri,2,Kansas City,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Iraq,CY 2016,22,South Carolina,4,Columbia,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Rwanda,CY 2016,3,Texas,3,Abilene,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Kansas,1,Garden City,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Missouri,1,Columbia,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,New York,2,Buffalo,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,North Carolina,3,High Point,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Ohio,3,Cleveland,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Pennsylvania,4,Erie,3,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Pennsylvania,4,Mechanicsburg,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Somalia,CY 2016,15,Wisconsin,1,Milwaukee,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Sudan,CY 2016,9,Kansas,7,Garden City,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Sudan,CY 2016,9,Nebraska,1,Omaha,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Sudan,CY 2016,9,Virginia,1,Roanoke,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Connecticut,7,New Haven,7,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Florida,17,Jacksonville,17,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Georgia,6,Atlanta,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Kentucky,2,Louisville,2,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Louisiana,4,New Orleans,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Maryland,5,Baltimore,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Massachusetts,1,Lynn,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Michigan,20,Battle Creek,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Michigan,20,Clinton Township,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Michigan,20,Dearborn,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Michigan,20,Troy,5,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,New Jersey,4,Camden,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,New Mexico,18,Albuquerque,18,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,New York,6,Brooklyn,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,North Carolina,10,Durham,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,North Carolina,10,High Point,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Ohio,8,Akron,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Pennsylvania,6,Erie,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Texas,6,Austin,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Virginia,8,Newport News,8,464
+From: 28 Sep 2016,To: 28 Sep 2016,Syria,CY 2016,141,Wisconsin,13,Milwaukee,13,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,Illinois,5,Chicago,4,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,Illinois,5,Glendale Heights,1,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,North Carolina,9,Asheville,9,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,Oregon,6,Portland,6,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,Washington,15,Seattle,12,464
+From: 28 Sep 2016,To: 28 Sep 2016,Ukraine,CY 2016,35,Washington,15,Vancouver,3,464
 
-            <h2> <i>Runtime Error</i> </h2></span>
-
-            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
-
-            <b> Description: </b>An application error occurred on the server. The current custom error settings for this application prevent the details of the application error from being viewed remotely (for security reasons). It could, however, be viewed by browsers running on the local server machine.
-            <br><br>
-
-            <b>Details:</b> To enable the details of this specific error message to be viewable on remote machines, please create a &lt;customErrors&gt; tag within a &quot;web.config&quot; configuration file located in the root directory of the current web application. This &lt;customErrors&gt; tag should then have its &quot;mode&quot; attribute set to &quot;Off&quot;.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;Off&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-            <b>Notes:</b> The current error page you are seeing can be replaced by a custom error page by modifying the &quot;defaultRedirect&quot; attribute of the application&#39;s &lt;customErrors&gt; configuration tag to point to a custom error page URL.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;RemoteOnly&quot; defaultRedirect=&quot;mycustompage.htm&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-    </body>
-</html>

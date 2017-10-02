@@ -1,80 +1,23 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Runtime Error</title>
-        <meta name="viewport" content="width=device-width" />
-        <style>
-         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
-         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
-         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
-         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
-         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
-         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
-         .marker {font-weight: bold; color: black;text-decoration: none;}
-         .version {color: gray;}
-         .error {margin-bottom: 10px;}
-         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
-         @media screen and (max-width: 639px) {
-          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
-         }
-         @media screen and (max-width: 479px) {
-          pre { width: 280px; }
-         }
-        </style>
-    </head>
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
 
-    <body bgcolor="white">
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 27 Sep 2016,To: 27 Sep 2016,California,CY 2016,15,Afghanistan,8,Sacramento,8,39
+From: 27 Sep 2016,To: 27 Sep 2016,California,CY 2016,15,Russia,7,Roseville,7,39
+From: 27 Sep 2016,To: 27 Sep 2016,Minnesota,CY 2016,2,Somalia,2,Burnsville,2,39
+From: 27 Sep 2016,To: 27 Sep 2016,Missouri,CY 2016,2,Afghanistan,2,Saint Louis,2,39
+From: 27 Sep 2016,To: 27 Sep 2016,New York,CY 2016,7,Afghanistan,7,Albany,7,39
+From: 27 Sep 2016,To: 27 Sep 2016,Oregon,CY 2016,5,Russia,5,Portland,5,39
+From: 27 Sep 2016,To: 27 Sep 2016,Washington,CY 2016,8,Russia,8,Renton,3,39
+From: 27 Sep 2016,To: 27 Sep 2016,Washington,CY 2016,8,Russia,8,Seattle,5,39
 
-            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 27 Sep 2016,To: 27 Sep 2016,Afghanistan,CY 2016,17,California,8,Sacramento,8,39
+From: 27 Sep 2016,To: 27 Sep 2016,Afghanistan,CY 2016,17,Missouri,2,Saint Louis,2,39
+From: 27 Sep 2016,To: 27 Sep 2016,Afghanistan,CY 2016,17,New York,7,Albany,7,39
+From: 27 Sep 2016,To: 27 Sep 2016,Russia,CY 2016,20,California,7,Roseville,7,39
+From: 27 Sep 2016,To: 27 Sep 2016,Russia,CY 2016,20,Oregon,5,Portland,5,39
+From: 27 Sep 2016,To: 27 Sep 2016,Russia,CY 2016,20,Washington,8,Renton,3,39
+From: 27 Sep 2016,To: 27 Sep 2016,Russia,CY 2016,20,Washington,8,Seattle,5,39
+From: 27 Sep 2016,To: 27 Sep 2016,Somalia,CY 2016,2,Minnesota,2,Burnsville,2,39
 
-            <h2> <i>Runtime Error</i> </h2></span>
-
-            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
-
-            <b> Description: </b>An application error occurred on the server. The current custom error settings for this application prevent the details of the application error from being viewed remotely (for security reasons). It could, however, be viewed by browsers running on the local server machine.
-            <br><br>
-
-            <b>Details:</b> To enable the details of this specific error message to be viewable on remote machines, please create a &lt;customErrors&gt; tag within a &quot;web.config&quot; configuration file located in the root directory of the current web application. This &lt;customErrors&gt; tag should then have its &quot;mode&quot; attribute set to &quot;Off&quot;.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;Off&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-            <b>Notes:</b> The current error page you are seeing can be replaced by a custom error page by modifying the &quot;defaultRedirect&quot; attribute of the application&#39;s &lt;customErrors&gt; configuration tag to point to a custom error page URL.<br><br>
-
-            <table width=100% bgcolor="#ffffcc">
-               <tr>
-                  <td>
-                      <code><pre>
-
-&lt;!-- Web.Config Configuration File --&gt;
-
-&lt;configuration&gt;
-    &lt;system.web&gt;
-        &lt;customErrors mode=&quot;RemoteOnly&quot; defaultRedirect=&quot;mycustompage.htm&quot;/&gt;
-    &lt;/system.web&gt;
-&lt;/configuration&gt;</pre></code>
-
-                  </td>
-               </tr>
-            </table>
-
-            <br>
-
-    </body>
-</html>
