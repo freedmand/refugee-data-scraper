@@ -1,0 +1,53 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 01 Mar 2002,To: 01 Mar 2002,Alaska,CY 2002,5,Russia,5,Palmer,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,California,CY 2002,9,Russia,1,North Hills,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,California,CY 2002,9,Ukraine,8,Sacramento,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,California,CY 2002,9,Ukraine,8,West Sacramento,7,89
+From: 01 Mar 2002,To: 01 Mar 2002,Connecticut,CY 2002,6,Angola,6,New Haven,6,89
+From: 01 Mar 2002,To: 01 Mar 2002,Florida,CY 2002,1,Ukraine,1,Oviedo,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Massachusetts,CY 2002,10,Moldova,9,Greenfield,4,89
+From: 01 Mar 2002,To: 01 Mar 2002,Massachusetts,CY 2002,10,Moldova,9,West Springfield,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,Massachusetts,CY 2002,10,Russia,1,Belmont,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,New Jersey,CY 2002,2,Moldova,2,Elmwood Park,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,New York,CY 2002,4,Azerbaijan,1,Brooklyn,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,New York,CY 2002,4,Moldova,2,Brooklyn,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,New York,CY 2002,4,Russia,1,Brooklyn,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,North Carolina,CY 2002,4,Russia,1,Greensboro,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,North Carolina,CY 2002,4,Vietnam,3,Cary,3,89
+From: 01 Mar 2002,To: 01 Mar 2002,Oklahoma,CY 2002,7,Russia,7,Tulsa,7,89
+From: 01 Mar 2002,To: 01 Mar 2002,Oregon,CY 2002,25,Moldova,6,Portland,6,89
+From: 01 Mar 2002,To: 01 Mar 2002,Oregon,CY 2002,25,Ukraine,19,Portland,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,Oregon,CY 2002,25,Ukraine,19,Woodburn,14,89
+From: 01 Mar 2002,To: 01 Mar 2002,Utah,CY 2002,2,Moldova,2,Salt Lake City,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,Washington,CY 2002,14,Moldova,1,Tacoma,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Washington,CY 2002,14,Russia,13,Kent,9,89
+From: 01 Mar 2002,To: 01 Mar 2002,Washington,CY 2002,14,Russia,13,Vancouver,4,89
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 01 Mar 2002,To: 01 Mar 2002,Angola,CY 2002,6,Connecticut,6,New Haven,6,89
+From: 01 Mar 2002,To: 01 Mar 2002,Azerbaijan,CY 2002,1,New York,1,Brooklyn,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,Massachusetts,9,Greenfield,4,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,Massachusetts,9,West Springfield,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,New Jersey,2,Elmwood Park,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,New York,2,Brooklyn,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,Oregon,6,Portland,6,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,Utah,2,Salt Lake City,2,89
+From: 01 Mar 2002,To: 01 Mar 2002,Moldova,CY 2002,22,Washington,1,Tacoma,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,Alaska,5,Palmer,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,California,1,North Hills,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,Massachusetts,1,Belmont,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,New York,1,Brooklyn,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,North Carolina,1,Greensboro,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,Oklahoma,7,Tulsa,7,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,Washington,13,Kent,9,89
+From: 01 Mar 2002,To: 01 Mar 2002,Russia,CY 2002,29,Washington,13,Vancouver,4,89
+From: 01 Mar 2002,To: 01 Mar 2002,Ukraine,CY 2002,28,California,8,Sacramento,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Ukraine,CY 2002,28,California,8,West Sacramento,7,89
+From: 01 Mar 2002,To: 01 Mar 2002,Ukraine,CY 2002,28,Florida,1,Oviedo,1,89
+From: 01 Mar 2002,To: 01 Mar 2002,Ukraine,CY 2002,28,Oregon,19,Portland,5,89
+From: 01 Mar 2002,To: 01 Mar 2002,Ukraine,CY 2002,28,Oregon,19,Woodburn,14,89
+From: 01 Mar 2002,To: 01 Mar 2002,Vietnam,CY 2002,3,North Carolina,3,Cary,3,89
+

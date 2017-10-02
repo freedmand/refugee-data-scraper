@@ -1,0 +1,65 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Belarus,1,Sacramento,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Moldova,13,Sacramento,13,119
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Russia,4,North Highlands,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Russia,4,Sacramento,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Ukraine,16,Sacramento,11,119
+From: 24 Oct 2002,To: 24 Oct 2002,California,CY 2002,34,Ukraine,16,Vista,5,119
+From: 24 Oct 2002,To: 24 Oct 2002,Colorado,CY 2002,2,Dem. Rep. Congo,1,Denver,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Colorado,CY 2002,2,Russia,1,Denver,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Indiana,CY 2002,1,Russia,1,Indianapolis,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Maryland,CY 2002,2,Russia,2,Baltimore,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Massachusetts,CY 2002,3,Ukraine,3,Brighton,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Belarus,7,Brooklyn,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Belarus,7,Great Neck,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Belarus,7,Utica,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Russia,15,Brooklyn,15,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Tajikistan,1,Brooklyn,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Ukraine,4,Brooklyn,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,New York,CY 2002,27,Ukraine,4,Solvay,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,North Carolina,CY 2002,6,Ethiopia,5,Apex,5,119
+From: 24 Oct 2002,To: 24 Oct 2002,North Carolina,CY 2002,6,Ukraine,1,Asheville,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Oregon,CY 2002,2,Ukraine,2,Portland,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Texas,CY 2002,3,China,1,Houston,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Texas,CY 2002,3,Ethiopia,2,Houston,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Belarus,8,Mount Vernon,8,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Ukraine,31,Auburn,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Ukraine,31,Bellevue,7,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Ukraine,31,Federal Way,17,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Ukraine,31,Lynnwood,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Washington,CY 2002,39,Ukraine,31,Vancouver,2,119
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 24 Oct 2002,To: 24 Oct 2002,Belarus,CY 2002,16,California,1,Sacramento,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Belarus,CY 2002,16,New York,7,Brooklyn,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Belarus,CY 2002,16,New York,7,Great Neck,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Belarus,CY 2002,16,New York,7,Utica,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Belarus,CY 2002,16,Washington,8,Mount Vernon,8,119
+From: 24 Oct 2002,To: 24 Oct 2002,China,CY 2002,1,Texas,1,Houston,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Dem. Rep. Congo,CY 2002,1,Colorado,1,Denver,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ethiopia,CY 2002,7,North Carolina,5,Apex,5,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ethiopia,CY 2002,7,Texas,2,Houston,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Moldova,CY 2002,13,California,13,Sacramento,13,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,California,4,North Highlands,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,California,4,Sacramento,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,Colorado,1,Denver,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,Indiana,1,Indianapolis,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,Maryland,2,Baltimore,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Russia,CY 2002,23,New York,15,Brooklyn,15,119
+From: 24 Oct 2002,To: 24 Oct 2002,Tajikistan,CY 2002,1,New York,1,Brooklyn,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,California,16,Sacramento,11,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,California,16,Vista,5,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Massachusetts,3,Brighton,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,New York,4,Brooklyn,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,New York,4,Solvay,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,North Carolina,1,Asheville,1,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Oregon,2,Portland,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Washington,31,Auburn,3,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Washington,31,Bellevue,7,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Washington,31,Federal Way,17,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Washington,31,Lynnwood,2,119
+From: 24 Oct 2002,To: 24 Oct 2002,Ukraine,CY 2002,57,Washington,31,Vancouver,2,119
+

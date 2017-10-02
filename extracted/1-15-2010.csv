@@ -1,0 +1,53 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 15 Jan 2010,To: 15 Jan 2010,Arizona,CY 2010,2,Bhutan,1,Phoenix,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Arizona,CY 2010,2,Somalia,1,Phoenix,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Florida,CY 2010,2,Burma,2,Jacksonville,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Idaho,CY 2010,5,Bhutan,5,Boise,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Illinois,CY 2010,3,Burma,3,Rockford,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Kentucky,CY 2010,2,Bhutan,2,Louisville,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Maine,CY 2010,6,Somalia,6,Lewiston,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Maine,CY 2010,6,Somalia,6,Portland,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Massachusetts,CY 2010,3,Bhutan,3,Worcester,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Minnesota,CY 2010,5,Bhutan,5,Saint Paul,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Missouri,CY 2010,5,Somalia,5,Kansas City,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,New Hampshire,CY 2010,4,Bhutan,4,Concord,4,67
+From: 15 Jan 2010,To: 15 Jan 2010,New York,CY 2010,5,Bhutan,2,Utica,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,New York,CY 2010,5,Burma,3,Rochester,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,North Carolina,CY 2010,1,Somalia,1,Raleigh,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Ohio,CY 2010,1,Somalia,1,Columbus,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Pennsylvania,CY 2010,3,Bhutan,3,Harrisburg,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Rhode Island,CY 2010,2,Bhutan,2,Providence,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Texas,CY 2010,7,Burma,1,Fort Worth,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Texas,CY 2010,7,Somalia,6,Fort Worth,6,67
+From: 15 Jan 2010,To: 15 Jan 2010,Vermont,CY 2010,3,Somalia,3,Colchester,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Virginia,CY 2010,6,Bhutan,6,Charlottesville,6,67
+From: 15 Jan 2010,To: 15 Jan 2010,Washington,CY 2010,2,Bhutan,2,Kent,2,67
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Arizona,1,Phoenix,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Idaho,5,Boise,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Kentucky,2,Louisville,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Massachusetts,3,Worcester,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Minnesota,5,Saint Paul,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,New Hampshire,4,Concord,4,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,New York,2,Utica,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Pennsylvania,3,Harrisburg,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Rhode Island,2,Providence,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Virginia,6,Charlottesville,6,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,CY 2010,35,Washington,2,Kent,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Burma,CY 2010,9,Florida,2,Jacksonville,2,67
+From: 15 Jan 2010,To: 15 Jan 2010,Burma,CY 2010,9,Illinois,3,Rockford,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Burma,CY 2010,9,New York,3,Rochester,3,67
+From: 15 Jan 2010,To: 15 Jan 2010,Burma,CY 2010,9,Texas,1,Fort Worth,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Arizona,1,Phoenix,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Maine,6,Lewiston,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Maine,6,Portland,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Missouri,5,Kansas City,5,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,North Carolina,1,Raleigh,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Ohio,1,Columbus,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Texas,6,Fort Worth,6,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,CY 2010,23,Vermont,3,Colchester,3,67
+

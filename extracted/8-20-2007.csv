@@ -1,0 +1,55 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 20 Aug 2007,To: 20 Aug 2007,Arizona,CY 2007,6,Somalia,6,Phoenix,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,California,CY 2007,8,Russia,2,Mountain View,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,California,CY 2007,8,Somalia,6,San Diego,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,Colorado,CY 2007,3,Russia,3,Thornton,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Florida,CY 2007,3,Burma,3,Plantation,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Indiana,CY 2007,11,Burma,11,Indianapolis,11,103
+From: 20 Aug 2007,To: 20 Aug 2007,Maryland,CY 2007,2,Burma,2,Elkridge,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Michigan,CY 2007,12,Burma,7,Battle Creek,7,103
+From: 20 Aug 2007,To: 20 Aug 2007,Michigan,CY 2007,12,Somalia,5,Ann Arbor,5,103
+From: 20 Aug 2007,To: 20 Aug 2007,Minnesota,CY 2007,17,Russia,5,Shakopee,5,103
+From: 20 Aug 2007,To: 20 Aug 2007,Minnesota,CY 2007,17,Somalia,12,Saint Paul,12,103
+From: 20 Aug 2007,To: 20 Aug 2007,Missouri,CY 2007,1,Azerbaijan,1,Saint Louis,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Nevada,CY 2007,2,Rwanda,2,Las Vegas,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Ohio,CY 2007,16,Somalia,16,Columbus,16,103
+From: 20 Aug 2007,To: 20 Aug 2007,Oklahoma,CY 2007,1,Burma,1,Midwest City,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Texas,CY 2007,10,Burma,7,Austin,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Texas,CY 2007,10,Burma,7,Dallas,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Texas,CY 2007,10,Burma,7,Grapevine,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Texas,CY 2007,10,Burma,7,Lewisville,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Texas,CY 2007,10,Uzbekistan,3,The Woodlands,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Virginia,CY 2007,2,Burma,2,Hampton,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Washington,CY 2007,9,Ethiopia,1,Seattle,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Washington,CY 2007,9,Russia,6,Kent,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,Washington,CY 2007,9,Somalia,2,Seattle,2,103
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 20 Aug 2007,To: 20 Aug 2007,Azerbaijan,CY 2007,1,Missouri,1,Saint Louis,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Florida,3,Plantation,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Indiana,11,Indianapolis,11,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Maryland,2,Elkridge,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Michigan,7,Battle Creek,7,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Oklahoma,1,Midwest City,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Texas,7,Austin,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Texas,7,Dallas,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Texas,7,Grapevine,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Texas,7,Lewisville,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Burma,CY 2007,33,Virginia,2,Hampton,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Ethiopia,CY 2007,1,Washington,1,Seattle,1,103
+From: 20 Aug 2007,To: 20 Aug 2007,Russia,CY 2007,16,California,2,Mountain View,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Russia,CY 2007,16,Colorado,3,Thornton,3,103
+From: 20 Aug 2007,To: 20 Aug 2007,Russia,CY 2007,16,Minnesota,5,Shakopee,5,103
+From: 20 Aug 2007,To: 20 Aug 2007,Russia,CY 2007,16,Washington,6,Kent,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,Rwanda,CY 2007,2,Nevada,2,Las Vegas,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,Arizona,6,Phoenix,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,California,6,San Diego,6,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,Michigan,5,Ann Arbor,5,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,Minnesota,12,Saint Paul,12,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,Ohio,16,Columbus,16,103
+From: 20 Aug 2007,To: 20 Aug 2007,Somalia,CY 2007,47,Washington,2,Seattle,2,103
+From: 20 Aug 2007,To: 20 Aug 2007,Uzbekistan,CY 2007,3,Texas,3,The Woodlands,3,103
+

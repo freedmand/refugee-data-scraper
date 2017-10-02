@@ -1,0 +1,59 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 31 Jul 2002,To: 31 Jul 2002,California,CY 2002,16,Afghanistan,5,Newark,5,89
+From: 31 Jul 2002,To: 31 Jul 2002,California,CY 2002,16,Ukraine,6,Sacramento,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,California,CY 2002,16,Ukraine,6,San Jose,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,California,CY 2002,16,Vietnam,5,Canoga Park,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,California,CY 2002,16,Vietnam,5,Garden Grove,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Connecticut,CY 2002,6,Afghanistan,6,Hartford,6,89
+From: 31 Jul 2002,To: 31 Jul 2002,Florida,CY 2002,5,Afghanistan,3,New Port Richey,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,Florida,CY 2002,5,Vietnam,2,Pensacola,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Georgia,CY 2002,9,Iraq,7,Decatur,7,89
+From: 31 Jul 2002,To: 31 Jul 2002,Georgia,CY 2002,9,Vietnam,2,Decatur,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Idaho,CY 2002,2,Afghanistan,2,Boise,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Iowa,CY 2002,2,Vietnam,2,Davenport,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Maryland,CY 2002,5,Sudan,5,Baltimore,5,89
+From: 31 Jul 2002,To: 31 Jul 2002,New Jersey,CY 2002,2,Vietnam,2,Ventnor City,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,New York,CY 2002,10,Afghanistan,7,Rochester,7,89
+From: 31 Jul 2002,To: 31 Jul 2002,New York,CY 2002,10,Vietnam,3,Bronx,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,North Carolina,CY 2002,1,Sudan,1,Charlotte,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Oregon,CY 2002,2,Ukraine,2,Portland,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Tennessee,CY 2002,3,Vietnam,3,Memphis,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,Texas,CY 2002,10,Iraq,3,Fort Worth,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Texas,CY 2002,10,Iraq,3,Houston,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Texas,CY 2002,10,Somalia,1,Houston,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Texas,CY 2002,10,Vietnam,6,Amarillo,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Texas,CY 2002,10,Vietnam,6,Houston,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Utah,CY 2002,4,Afghanistan,4,Salt Lake City,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Washington,CY 2002,12,Ukraine,12,Lynnwood,12,89
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,California,5,Newark,5,89
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,Connecticut,6,Hartford,6,89
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,Florida,3,New Port Richey,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,Idaho,2,Boise,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,New York,7,Rochester,7,89
+From: 31 Jul 2002,To: 31 Jul 2002,Afghanistan,CY 2002,27,Utah,4,Salt Lake City,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Iraq,CY 2002,10,Georgia,7,Decatur,7,89
+From: 31 Jul 2002,To: 31 Jul 2002,Iraq,CY 2002,10,Texas,3,Fort Worth,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Iraq,CY 2002,10,Texas,3,Houston,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Somalia,CY 2002,1,Texas,1,Houston,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Sudan,CY 2002,6,Maryland,5,Baltimore,5,89
+From: 31 Jul 2002,To: 31 Jul 2002,Sudan,CY 2002,6,North Carolina,1,Charlotte,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Ukraine,CY 2002,20,California,6,Sacramento,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Ukraine,CY 2002,20,California,6,San Jose,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Ukraine,CY 2002,20,Oregon,2,Portland,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Ukraine,CY 2002,20,Washington,12,Lynnwood,12,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,California,5,Canoga Park,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,California,5,Garden Grove,1,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Florida,2,Pensacola,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Georgia,2,Decatur,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Iowa,2,Davenport,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,New Jersey,2,Ventnor City,2,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,New York,3,Bronx,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Tennessee,3,Memphis,3,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Texas,6,Amarillo,4,89
+From: 31 Jul 2002,To: 31 Jul 2002,Vietnam,CY 2002,25,Texas,6,Houston,2,89
+

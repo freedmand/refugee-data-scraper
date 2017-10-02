@@ -1,0 +1,51 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 05 Feb 2003,To: 05 Feb 2003,Arizona,CY 2003,12,Afghanistan,5,Phoenix,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,Arizona,CY 2003,12,Iraq,7,Glendale,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Arizona,CY 2003,12,Iraq,7,Phoenix,6,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Afghanistan,5,Murrieta,4,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Afghanistan,5,San Francisco,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iran,10,Encino,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iran,10,Glendale,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iran,10,Los Angeles,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iran,10,Northridge,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iran,10,Tujunga,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Iraq,1,San Diego,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,California,CY 2003,21,Moldova,5,Rancho Cordova,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,Georgia,CY 2003,9,Afghanistan,8,Decatur,8,75
+From: 05 Feb 2003,To: 05 Feb 2003,Georgia,CY 2003,9,Iraq,1,Clarkston,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Kentucky,CY 2003,2,Sudan,2,Louisville,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,Minnesota,CY 2003,8,Somalia,2,Minneapolis,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,Minnesota,CY 2003,8,Sudan,6,Moorhead,6,75
+From: 05 Feb 2003,To: 05 Feb 2003,New York,CY 2003,8,Afghanistan,8,Utica,8,75
+From: 05 Feb 2003,To: 05 Feb 2003,Pennsylvania,CY 2003,5,Iraq,5,Erie,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,South Dakota,CY 2003,1,Sudan,1,Sioux Falls,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Texas,CY 2003,3,Iraq,3,Amarillo,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,Washington,CY 2003,6,Moldova,6,Kent,6,75
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 05 Feb 2003,To: 05 Feb 2003,Afghanistan,CY 2003,26,Arizona,5,Phoenix,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,Afghanistan,CY 2003,26,California,5,Murrieta,4,75
+From: 05 Feb 2003,To: 05 Feb 2003,Afghanistan,CY 2003,26,California,5,San Francisco,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Afghanistan,CY 2003,26,Georgia,8,Decatur,8,75
+From: 05 Feb 2003,To: 05 Feb 2003,Afghanistan,CY 2003,26,New York,8,Utica,8,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iran,CY 2003,10,California,10,Encino,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iran,CY 2003,10,California,10,Glendale,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iran,CY 2003,10,California,10,Los Angeles,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iran,CY 2003,10,California,10,Northridge,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iran,CY 2003,10,California,10,Tujunga,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,Arizona,7,Glendale,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,Arizona,7,Phoenix,6,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,California,1,San Diego,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,Georgia,1,Clarkston,1,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,Pennsylvania,5,Erie,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,Iraq,CY 2003,17,Texas,3,Amarillo,3,75
+From: 05 Feb 2003,To: 05 Feb 2003,Moldova,CY 2003,11,California,5,Rancho Cordova,5,75
+From: 05 Feb 2003,To: 05 Feb 2003,Moldova,CY 2003,11,Washington,6,Kent,6,75
+From: 05 Feb 2003,To: 05 Feb 2003,Somalia,CY 2003,2,Minnesota,2,Minneapolis,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,Sudan,CY 2003,9,Kentucky,2,Louisville,2,75
+From: 05 Feb 2003,To: 05 Feb 2003,Sudan,CY 2003,9,Minnesota,6,Moorhead,6,75
+From: 05 Feb 2003,To: 05 Feb 2003,Sudan,CY 2003,9,South Dakota,1,Sioux Falls,1,75
+

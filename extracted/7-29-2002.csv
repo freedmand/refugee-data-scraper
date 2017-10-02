@@ -1,0 +1,63 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 29 Jul 2002,To: 29 Jul 2002,Arizona,CY 2002,11,Iraq,9,Glendale,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Arizona,CY 2002,11,Iraq,9,Phoenix,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Arizona,CY 2002,11,Sierra Leone,2,Phoenix,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Iran,11,Concord,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Iran,11,Sacramento,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Iran,11,San Jose,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Iran,11,Santa Monica,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Kazakhstan,1,Sacramento,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Russia,3,San Francisco,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,California,CY 2002,17,Sudan,2,San Diego,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,Colorado,CY 2002,6,Russia,6,Arvada,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Colorado,CY 2002,6,Russia,6,Aurora,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Illinois,CY 2002,1,Belarus,1,Wheaton,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Minnesota,CY 2002,3,Belarus,2,Champlin,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,Minnesota,CY 2002,3,Sudan,1,Saint Paul,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Missouri,CY 2002,1,Sierra Leone,1,Saint Louis,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Nevada,CY 2002,6,Iran,6,Las Vegas,6,88
+From: 29 Jul 2002,To: 29 Jul 2002,New York,CY 2002,4,Belarus,4,Brooklyn,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Pennsylvania,CY 2002,8,Belarus,5,Reinholds,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Pennsylvania,CY 2002,8,Russia,3,Philadelphia,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Texas,CY 2002,4,Iran,4,Amarillo,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Utah,CY 2002,9,Iran,8,Salt Lake City,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Utah,CY 2002,9,Iran,8,Sandy,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Utah,CY 2002,9,Sudan,1,Salt Lake City,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Washington,CY 2002,18,Iran,5,Renton,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Washington,CY 2002,18,Russia,13,Ferndale,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Washington,CY 2002,18,Russia,13,Spokane,6,88
+From: 29 Jul 2002,To: 29 Jul 2002,Washington,CY 2002,18,Russia,13,Tacoma,6,88
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,CY 2002,12,Illinois,1,Wheaton,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,CY 2002,12,Minnesota,2,Champlin,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,CY 2002,12,New York,4,Brooklyn,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,CY 2002,12,Pennsylvania,5,Reinholds,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,California,11,Concord,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,California,11,Sacramento,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,California,11,San Jose,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,California,11,Santa Monica,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,Nevada,6,Las Vegas,6,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,Texas,4,Amarillo,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,Utah,8,Salt Lake City,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,Utah,8,Sandy,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,CY 2002,34,Washington,5,Renton,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iraq,CY 2002,9,Arizona,9,Glendale,4,88
+From: 29 Jul 2002,To: 29 Jul 2002,Iraq,CY 2002,9,Arizona,9,Phoenix,5,88
+From: 29 Jul 2002,To: 29 Jul 2002,Kazakhstan,CY 2002,1,California,1,Sacramento,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,California,3,San Francisco,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Colorado,6,Arvada,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Colorado,6,Aurora,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Pennsylvania,3,Philadelphia,3,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Washington,13,Ferndale,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Washington,13,Spokane,6,88
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,CY 2002,25,Washington,13,Tacoma,6,88
+From: 29 Jul 2002,To: 29 Jul 2002,Sierra Leone,CY 2002,3,Arizona,2,Phoenix,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,Sierra Leone,CY 2002,3,Missouri,1,Saint Louis,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,CY 2002,4,California,2,San Diego,2,88
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,CY 2002,4,Minnesota,1,Saint Paul,1,88
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,CY 2002,4,Utah,1,Salt Lake City,1,88
+

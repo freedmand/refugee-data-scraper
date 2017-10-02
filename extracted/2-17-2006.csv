@@ -1,0 +1,59 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 17 Feb 2006,To: 17 Feb 2006,Arizona,CY 2006,2,Sudan,2,Phoenix,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,California,CY 2006,13,Iran,5,Fullerton,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,California,CY 2006,13,Iran,5,Los Angeles,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,California,CY 2006,13,Russia,8,Oakland,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,California,CY 2006,13,Russia,8,San Francisco,5,99
+From: 17 Feb 2006,To: 17 Feb 2006,Illinois,CY 2006,6,Sudan,6,Aurora,6,99
+From: 17 Feb 2006,To: 17 Feb 2006,Kansas,CY 2006,3,Iran,3,Wichita,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Michigan,CY 2006,8,Sudan,8,Grand Rapids,7,99
+From: 17 Feb 2006,To: 17 Feb 2006,Michigan,CY 2006,8,Sudan,8,Grandville,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Missouri,CY 2006,3,Russia,3,Saint Louis,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Nebraska,CY 2006,1,Sudan,1,Omaha,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,New Jersey,CY 2006,9,Sudan,9,Moorestown,9,99
+From: 17 Feb 2006,To: 17 Feb 2006,New York,CY 2006,3,Sudan,3,Rochester,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,New York,CY 2006,3,Sudan,3,Syracuse,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,North Carolina,CY 2006,4,Russia,4,Charlotte,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,South Dakota,CY 2006,9,Russia,9,Sioux Falls,9,99
+From: 17 Feb 2006,To: 17 Feb 2006,Tennessee,CY 2006,11,Iran,11,Memphis,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Tennessee,CY 2006,11,Iran,11,Nashville,10,99
+From: 17 Feb 2006,To: 17 Feb 2006,Texas,CY 2006,13,Iran,7,Houston,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Texas,CY 2006,13,Iran,7,Plano,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Texas,CY 2006,13,Sudan,6,Dallas,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Texas,CY 2006,13,Sudan,6,Houston,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Utah,CY 2006,4,Iran,4,Salt Lake City,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Washington,CY 2006,10,Iran,5,Bellevue,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Washington,CY 2006,10,Iran,5,Sammamish,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Washington,CY 2006,10,Russia,5,Seattle,5,99
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,California,5,Fullerton,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,California,5,Los Angeles,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Kansas,3,Wichita,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Tennessee,11,Memphis,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Tennessee,11,Nashville,10,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Texas,7,Houston,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Texas,7,Plano,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Utah,4,Salt Lake City,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Washington,5,Bellevue,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Iran,CY 2006,35,Washington,5,Sammamish,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,California,8,Oakland,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,California,8,San Francisco,5,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,Missouri,3,Saint Louis,3,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,North Carolina,4,Charlotte,4,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,South Dakota,9,Sioux Falls,9,99
+From: 17 Feb 2006,To: 17 Feb 2006,Russia,CY 2006,29,Washington,5,Seattle,5,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Arizona,2,Phoenix,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Illinois,6,Aurora,6,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Michigan,8,Grand Rapids,7,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Michigan,8,Grandville,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Nebraska,1,Omaha,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,New Jersey,9,Moorestown,9,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,New York,3,Rochester,1,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,New York,3,Syracuse,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Texas,6,Dallas,2,99
+From: 17 Feb 2006,To: 17 Feb 2006,Sudan,CY 2006,35,Texas,6,Houston,4,99
+

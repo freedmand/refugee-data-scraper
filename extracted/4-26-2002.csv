@@ -1,0 +1,73 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 26 Apr 2002,To: 26 Apr 2002,California,CY 2002,34,Afghanistan,1,Newark,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,California,CY 2002,34,Belarus,3,Sacramento,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,California,CY 2002,34,Moldova,8,Rancho Cordova,8,122
+From: 26 Apr 2002,To: 26 Apr 2002,California,CY 2002,34,Russia,3,Mountain View,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,California,CY 2002,34,Ukraine,19,Sacramento,19,122
+From: 26 Apr 2002,To: 26 Apr 2002,Colorado,CY 2002,7,Afghanistan,5,Lakewood,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Colorado,CY 2002,7,Russia,2,Henderson,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Florida,CY 2002,1,Afghanistan,1,Jacksonville,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Idaho,CY 2002,2,Afghanistan,1,Boise,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Idaho,CY 2002,2,Russia,1,Boise,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Illinois,CY 2002,3,Afghanistan,2,Chicago,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Illinois,CY 2002,3,Dem. Rep. Congo,1,Rockford,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Indiana,CY 2002,3,Afghanistan,3,Carmel,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Massachusetts,CY 2002,7,Belarus,3,West Springfield,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Massachusetts,CY 2002,7,Moldova,4,Westfield,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Michigan,CY 2002,9,Azerbaijan,2,Oak Park,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Michigan,CY 2002,9,Ukraine,7,Farmington Hills,7,122
+From: 26 Apr 2002,To: 26 Apr 2002,Minnesota,CY 2002,8,Ukraine,8,White Bear Lake,8,122
+From: 26 Apr 2002,To: 26 Apr 2002,Missouri,CY 2002,2,Estonia,2,Saint Louis,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,New York,CY 2002,16,Russia,9,Brooklyn,7,122
+From: 26 Apr 2002,To: 26 Apr 2002,New York,CY 2002,16,Russia,9,New York,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,New York,CY 2002,16,Ukraine,4,Brooklyn,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,New York,CY 2002,16,Ukraine,4,Staten Island,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,New York,CY 2002,16,Uzbekistan,3,Brooklyn,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ohio,CY 2002,1,Serbia,1,Dayton,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Oregon,CY 2002,9,Estonia,5,Portland,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Oregon,CY 2002,9,Moldova,4,Woodburn,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Pennsylvania,CY 2002,6,Belarus,4,York,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Pennsylvania,CY 2002,6,Ukraine,2,Philadelphia,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Texas,CY 2002,6,Afghanistan,3,Houston,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Texas,CY 2002,6,Russia,3,Plano,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Washington,CY 2002,8,Ukraine,8,Everett,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Washington,CY 2002,8,Ukraine,8,Federal Way,6,122
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,California,1,Newark,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Colorado,5,Lakewood,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Florida,1,Jacksonville,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Idaho,1,Boise,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Illinois,2,Chicago,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Indiana,3,Carmel,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,CY 2002,16,Texas,3,Houston,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Azerbaijan,CY 2002,2,Michigan,2,Oak Park,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Belarus,CY 2002,10,California,3,Sacramento,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Belarus,CY 2002,10,Massachusetts,3,West Springfield,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Belarus,CY 2002,10,Pennsylvania,4,York,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Dem. Rep. Congo,CY 2002,1,Illinois,1,Rockford,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Estonia,CY 2002,7,Missouri,2,Saint Louis,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Estonia,CY 2002,7,Oregon,5,Portland,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moldova,CY 2002,16,California,8,Rancho Cordova,8,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moldova,CY 2002,16,Massachusetts,4,Westfield,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moldova,CY 2002,16,Oregon,4,Woodburn,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,California,3,Mountain View,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,Colorado,2,Henderson,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,Idaho,1,Boise,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,New York,9,Brooklyn,7,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,New York,9,New York,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,CY 2002,18,Texas,3,Plano,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Serbia,CY 2002,1,Ohio,1,Dayton,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,California,19,Sacramento,19,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,Michigan,7,Farmington Hills,7,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,Minnesota,8,White Bear Lake,8,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,New York,4,Brooklyn,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,New York,4,Staten Island,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,Pennsylvania,2,Philadelphia,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,Washington,8,Everett,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,CY 2002,48,Washington,8,Federal Way,6,122
+From: 26 Apr 2002,To: 26 Apr 2002,Uzbekistan,CY 2002,3,New York,3,Brooklyn,3,122
+

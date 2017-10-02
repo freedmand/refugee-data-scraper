@@ -1,0 +1,51 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Burma,1,Daly City,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Antelope,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Carmichael,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Glendale,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,San Jose,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Sunland,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Tarzana,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Iran,20,Turlock,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,California,CY 2006,26,Russia,5,San Francisco,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,Florida,CY 2006,1,Burma,1,Jacksonville,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,Georgia,CY 2006,8,Burma,8,Stone Mountain,8,98
+From: 02 Nov 2006,To: 02 Nov 2006,Illinois,CY 2006,8,Burma,6,Rockford,6,98
+From: 02 Nov 2006,To: 02 Nov 2006,Illinois,CY 2006,8,Russia,2,Rockford,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,Michigan,CY 2006,6,Russia,6,Lansing,6,98
+From: 02 Nov 2006,To: 02 Nov 2006,Nebraska,CY 2006,5,Burma,5,Bennington,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,New York,CY 2006,19,Burma,9,Buffalo,9,98
+From: 02 Nov 2006,To: 02 Nov 2006,New York,CY 2006,19,Dem. Rep. Congo,10,Syracuse,10,98
+From: 02 Nov 2006,To: 02 Nov 2006,North Carolina,CY 2006,3,Burma,3,Raleigh,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Oregon,CY 2006,3,Russia,3,Portland,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Rhode Island,CY 2006,4,Dem. Rep. Congo,4,Providence,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Vermont,CY 2006,9,Russia,9,Colchester,9,98
+From: 02 Nov 2006,To: 02 Nov 2006,Washington,CY 2006,6,Russia,6,Spokane,6,98
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,California,1,Daly City,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,Florida,1,Jacksonville,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,Georgia,8,Stone Mountain,8,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,Illinois,6,Rockford,6,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,Nebraska,5,Bennington,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,New York,9,Buffalo,9,98
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,CY 2006,33,North Carolina,3,Raleigh,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Dem. Rep. Congo,CY 2006,14,New York,10,Syracuse,10,98
+From: 02 Nov 2006,To: 02 Nov 2006,Dem. Rep. Congo,CY 2006,14,Rhode Island,4,Providence,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Antelope,1,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Carmichael,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Glendale,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,San Jose,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Sunland,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Tarzana,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,CY 2006,20,California,20,Turlock,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,California,5,San Francisco,5,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,Illinois,2,Rockford,2,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,Michigan,6,Lansing,6,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,Oregon,3,Portland,3,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,Vermont,9,Colchester,9,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,CY 2006,31,Washington,6,Spokane,6,98
+

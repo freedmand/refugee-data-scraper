@@ -1,0 +1,61 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 19 Apr 2006,To: 19 Apr 2006,Arizona,CY 2006,1,Uzbekistan,1,Phoenix,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,California,CY 2006,7,Belarus,1,Sacramento,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,California,CY 2006,7,Laos,6,Sacramento,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Colorado,CY 2006,4,Russia,4,Colorado Springs,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Georgia,CY 2006,10,Ethiopia,10,Stone Mountain,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Kansas,CY 2006,5,Russia,4,Kansas City,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Kansas,CY 2006,5,Uzbekistan,1,Kansas City,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Kentucky,CY 2006,6,Uzbekistan,6,Louisville,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Michigan,CY 2006,1,Iraq,1,Warren,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Minnesota,CY 2006,9,Laos,7,Saint Paul,7,126
+From: 19 Apr 2006,To: 19 Apr 2006,Minnesota,CY 2006,9,Somalia,2,Saint Cloud,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Minnesota,CY 2006,9,Somalia,2,Willmar,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Missouri,CY 2006,2,Russia,2,Saint Louis,2,126
+From: 19 Apr 2006,To: 19 Apr 2006,New York,CY 2006,29,Belarus,16,Brooklyn,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,New York,CY 2006,29,Belarus,16,Buffalo,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,New York,CY 2006,29,Belarus,16,Utica,2,126
+From: 19 Apr 2006,To: 19 Apr 2006,New York,CY 2006,29,Russia,13,Rochester,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Ohio,CY 2006,15,Somalia,6,Columbus,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Ohio,CY 2006,15,Uzbekistan,9,Akron,9,126
+From: 19 Apr 2006,To: 19 Apr 2006,Oregon,CY 2006,1,Burma,1,Portland,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Tennessee,CY 2006,4,Russia,4,Knoxville,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Texas,CY 2006,18,Burma,7,Amarillo,7,126
+From: 19 Apr 2006,To: 19 Apr 2006,Texas,CY 2006,18,Russia,11,Austin,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Texas,CY 2006,18,Russia,11,Houston,5,126
+From: 19 Apr 2006,To: 19 Apr 2006,Virginia,CY 2006,4,China,4,Richmond,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Washington,CY 2006,10,Russia,5,Vancouver,5,126
+From: 19 Apr 2006,To: 19 Apr 2006,Washington,CY 2006,10,Somalia,5,Kent,5,126
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,CY 2006,17,California,1,Sacramento,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,CY 2006,17,New York,16,Brooklyn,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,CY 2006,17,New York,16,Buffalo,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,CY 2006,17,New York,16,Utica,2,126
+From: 19 Apr 2006,To: 19 Apr 2006,Burma,CY 2006,8,Oregon,1,Portland,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Burma,CY 2006,8,Texas,7,Amarillo,7,126
+From: 19 Apr 2006,To: 19 Apr 2006,China,CY 2006,4,Virginia,4,Richmond,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Ethiopia,CY 2006,10,Georgia,10,Stone Mountain,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Iraq,CY 2006,1,Michigan,1,Warren,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Laos,CY 2006,13,California,6,Sacramento,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Laos,CY 2006,13,Minnesota,7,Saint Paul,7,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Colorado,4,Colorado Springs,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Kansas,4,Kansas City,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Missouri,2,Saint Louis,2,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,New York,13,Rochester,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Tennessee,4,Knoxville,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Texas,11,Austin,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Texas,11,Houston,5,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,CY 2006,43,Washington,5,Vancouver,5,126
+From: 19 Apr 2006,To: 19 Apr 2006,Somalia,CY 2006,13,Minnesota,2,Saint Cloud,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Somalia,CY 2006,13,Minnesota,2,Willmar,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Somalia,CY 2006,13,Ohio,6,Columbus,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Somalia,CY 2006,13,Washington,5,Kent,5,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,CY 2006,17,Arizona,1,Phoenix,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,CY 2006,17,Kansas,1,Kansas City,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,CY 2006,17,Kentucky,6,Louisville,6,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,CY 2006,17,Ohio,9,Akron,9,126
+

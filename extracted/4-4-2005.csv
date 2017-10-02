@@ -1,0 +1,61 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Afghanistan,6,Reseda,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Belarus,19,Citrus Heights,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Belarus,19,Sacramento,14,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Belarus,19,Woodland Hills,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Burma,2,Anaheim,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Burma,2,Oakland,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Russia,10,Daly City,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Russia,10,North Highlands,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,California,CY 2005,37,Russia,10,San Diego,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Florida,CY 2005,3,Colombia,3,Jacksonville,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Florida,CY 2005,3,Colombia,3,Miami,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Georgia,CY 2005,6,Afghanistan,2,Decatur,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Georgia,CY 2005,6,Russia,4,Decatur,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Idaho,CY 2005,1,Afghanistan,1,Boise,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Indiana,CY 2005,1,Burma,1,Indianapolis,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Maryland,CY 2005,5,Russia,5,Hagerstown,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,Minnesota,CY 2005,1,Somalia,1,Minneapolis,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,New York,CY 2005,1,Burma,1,Buffalo,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Pennsylvania,CY 2005,7,Belarus,6,Philadelphia,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,Pennsylvania,CY 2005,7,Burma,1,Pittsburgh,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Texas,CY 2005,17,China,1,Fort Worth,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Texas,CY 2005,17,Russia,16,Houston,16,93
+From: 04 Apr 2005,To: 04 Apr 2005,Virginia,CY 2005,8,Afghanistan,4,Richmond,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Virginia,CY 2005,8,Burma,1,Charlottesville,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Virginia,CY 2005,8,Russia,3,Charlottesville,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Washington,CY 2005,6,Belarus,2,Spokane,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Washington,CY 2005,6,Russia,4,Vancouver,4,93
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,CY 2005,13,California,6,Reseda,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,CY 2005,13,Georgia,2,Decatur,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,CY 2005,13,Idaho,1,Boise,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,CY 2005,13,Virginia,4,Richmond,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,CY 2005,27,California,19,Citrus Heights,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,CY 2005,27,California,19,Sacramento,14,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,CY 2005,27,California,19,Woodland Hills,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,CY 2005,27,Pennsylvania,6,Philadelphia,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,CY 2005,27,Washington,2,Spokane,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,California,2,Anaheim,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,California,2,Oakland,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,Indiana,1,Indianapolis,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,New York,1,Buffalo,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,Pennsylvania,1,Pittsburgh,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,CY 2005,6,Virginia,1,Charlottesville,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,China,CY 2005,1,Texas,1,Fort Worth,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Colombia,CY 2005,3,Florida,3,Jacksonville,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Colombia,CY 2005,3,Florida,3,Miami,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,California,10,Daly City,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,California,10,North Highlands,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,California,10,San Diego,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,Georgia,4,Decatur,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,Maryland,5,Hagerstown,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,Texas,16,Houston,16,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,Virginia,3,Charlottesville,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,CY 2005,42,Washington,4,Vancouver,4,93
+From: 04 Apr 2005,To: 04 Apr 2005,Somalia,CY 2005,1,Minnesota,1,Minneapolis,1,93
+

@@ -1,0 +1,65 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 27 Jun 2003,To: 27 Jun 2003,Arizona,CY 2003,1,Russia,1,Scottsdale,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,California,CY 2003,11,Russia,7,Los Angeles,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,California,CY 2003,11,Russia,7,Sacramento,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,California,CY 2003,11,Ukraine,4,Fresno,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,California,CY 2003,11,Ukraine,4,Los Angeles,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Georgia,CY 2003,2,Russia,2,Lawrenceville,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Illinois,CY 2003,4,Liberia,4,Champaign,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,Indiana,CY 2003,2,Russia,2,Fort Wayne,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Maryland,CY 2003,2,Russia,2,Silver Spring,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Massachusetts,CY 2003,2,Russia,2,Springfield,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Minnesota,CY 2003,2,Liberia,2,Brooklyn Park,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,New Jersey,CY 2003,3,Russia,3,Emerson,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Azerbaijan,1,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Liberia,7,Staten Island,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Russia,6,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Russia,6,Far Rockaway,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Russia,6,New York,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Russia,6,Rego Park,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,New York,CY 2003,15,Ukraine,1,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Oregon,CY 2003,7,Ukraine,7,Portland,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,Pennsylvania,CY 2003,24,Ivory Coast,2,Philadelphia,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Pennsylvania,CY 2003,24,Liberia,20,Morrisville,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Pennsylvania,CY 2003,24,Liberia,20,South Coatesville,19,99
+From: 27 Jun 2003,To: 27 Jun 2003,Pennsylvania,CY 2003,24,Russia,2,Philadelphia,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Utah,CY 2003,4,Russia,4,Salt Lake City,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,Washington,CY 2003,20,Russia,3,Ferndale,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Washington,CY 2003,20,Russia,3,Tacoma,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Washington,CY 2003,20,Ukraine,17,Everett,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,Washington,CY 2003,20,Ukraine,17,Vancouver,10,99
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 27 Jun 2003,To: 27 Jun 2003,Azerbaijan,CY 2003,1,New York,1,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ivory Coast,CY 2003,2,Pennsylvania,2,Philadelphia,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Liberia,CY 2003,33,Illinois,4,Champaign,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,Liberia,CY 2003,33,Minnesota,2,Brooklyn Park,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Liberia,CY 2003,33,New York,7,Staten Island,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,Liberia,CY 2003,33,Pennsylvania,20,Morrisville,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Liberia,CY 2003,33,Pennsylvania,20,South Coatesville,19,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Arizona,1,Scottsdale,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,California,7,Los Angeles,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,California,7,Sacramento,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Georgia,2,Lawrenceville,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Indiana,2,Fort Wayne,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Maryland,2,Silver Spring,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Massachusetts,2,Springfield,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,New Jersey,3,Emerson,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,New York,6,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,New York,6,Far Rockaway,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,New York,6,New York,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,New York,6,Rego Park,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Pennsylvania,2,Philadelphia,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Utah,4,Salt Lake City,4,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Washington,3,Ferndale,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Russia,CY 2003,34,Washington,3,Tacoma,2,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,California,4,Fresno,3,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,California,4,Los Angeles,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,New York,1,Brooklyn,1,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,Oregon,7,Portland,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,Washington,17,Everett,7,99
+From: 27 Jun 2003,To: 27 Jun 2003,Ukraine,CY 2003,29,Washington,17,Vancouver,10,99
+

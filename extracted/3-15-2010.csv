@@ -1,0 +1,61 @@
+ï»¿textbox9,textbox2,Textbox34
+Nationality(s): All Nationalities,State(s): All States,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox87,Textbox82,nat_definition4,region_name_3,textbox37,Category3,textbox39,Assur_DestinationCity1,Cases3,Cases4
+From: 15 Mar 2010,To: 15 Mar 2010,Alabama,CY 2010,1,Iraq,1,Mobile,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Arizona,CY 2010,7,Iran,3,Phoenix,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Arizona,CY 2010,7,Iraq,4,Phoenix,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,California,CY 2010,11,Iraq,11,Anaheim,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,California,CY 2010,11,Iraq,11,Carmichael,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,California,CY 2010,11,Iraq,11,El Cajon,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,California,CY 2010,11,Iraq,11,San Diego,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Connecticut,CY 2010,9,Afghanistan,9,New Haven,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Illinois,CY 2010,5,Iraq,5,Chicago,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Illinois,CY 2010,5,Iraq,5,Westmont,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Kentucky,CY 2010,1,Somalia,1,Louisville,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Maine,CY 2010,5,Iraq,5,Portland,5,85
+From: 15 Mar 2010,To: 15 Mar 2010,Maryland,CY 2010,2,Dem. Rep. Congo,1,Baltimore,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Maryland,CY 2010,2,Somalia,1,Baltimore,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Michigan,CY 2010,13,Iraq,13,Oak Park,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Michigan,CY 2010,13,Iraq,13,Southfield,8,85
+From: 15 Mar 2010,To: 15 Mar 2010,Michigan,CY 2010,13,Iraq,13,Sterling Heights,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Michigan,CY 2010,13,Iraq,13,Waterford,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,New Jersey,CY 2010,3,Iraq,3,Robbinsville,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,New York,CY 2010,4,Iraq,4,Albany,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Texas,CY 2010,8,Burma,3,Amarillo,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Texas,CY 2010,8,Burma,3,Dallas,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Texas,CY 2010,8,Iraq,5,Dallas,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Texas,CY 2010,8,Iraq,5,Houston,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Virginia,CY 2010,9,Afghanistan,4,Charlottesville,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Virginia,CY 2010,9,Iraq,5,Falls Church,5,85
+From: 15 Mar 2010,To: 15 Mar 2010,Washington,CY 2010,7,Iraq,7,Seattle,7,85
+
+Textbox94,Textbox95,nat_definition5,region_name_4,textbox38,Category4,textbox42,Assur_DestinationCity3,Cases5,Cases6
+From: 15 Mar 2010,To: 15 Mar 2010,Afghanistan,CY 2010,13,Connecticut,9,New Haven,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Afghanistan,CY 2010,13,Virginia,4,Charlottesville,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Burma,CY 2010,3,Texas,3,Amarillo,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Burma,CY 2010,3,Texas,3,Dallas,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Dem. Rep. Congo,CY 2010,1,Maryland,1,Baltimore,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iran,CY 2010,3,Arizona,3,Phoenix,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Alabama,1,Mobile,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Arizona,4,Phoenix,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,California,11,Anaheim,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,California,11,Carmichael,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,California,11,El Cajon,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,California,11,San Diego,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Illinois,5,Chicago,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Illinois,5,Westmont,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Maine,5,Portland,5,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Michigan,13,Oak Park,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Michigan,13,Southfield,8,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Michigan,13,Sterling Heights,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Michigan,13,Waterford,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,New Jersey,3,Robbinsville,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,New York,4,Albany,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Texas,5,Dallas,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Texas,5,Houston,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Virginia,5,Falls Church,5,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,CY 2010,63,Washington,7,Seattle,7,85
+From: 15 Mar 2010,To: 15 Mar 2010,Somalia,CY 2010,2,Kentucky,1,Louisville,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Somalia,CY 2010,2,Maryland,1,Baltimore,1,85
+
