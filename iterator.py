@@ -3,6 +3,7 @@ import csv
 import itertools
 import os
 import datetime
+import json
 
 class ImmigrationPatter(object):
   def __init__(self, day, originCountry, destState, destCounty, count):
@@ -24,7 +25,7 @@ def extractDate(date, prefix = "From: "):
   # Trim the prefix.
   date = date[len(prefix):]
   # Parse the date.
-  return datetime.datetime.strptime(date, '%d %b %Y')
+  return datetime.datetime.strptime(date, '%d %b %Y').strftime('%Y-%m-%d')
 
 def cleanRow(row):
   day = extractDate(row[0])
@@ -59,9 +60,23 @@ def readAllRows():
         if row == ['Textbox87','Textbox82','nat_definition4','region_name_3','textbox37','Category3','textbox39','Assur_DestinationCity1','Cases3','Cases4']:
           foundHeader = True
 
-import csv
-with open('combined_out.csv', 'wb') as csvfile:
-  writer = csv.writer(csvfile, delimiter=',', quotechar='"')
+def writeCsv():
+  with open('combined_out.csv', 'wb') as csvfile:
+    writer = csv.writer(csvfile, delimiter=',', quotechar='"')
 
-  for i in readAllRows():
-    writer.writerow(i)
+    for row in readAllRows():
+      writer.writerow(row)
+
+def writeJson():
+  with open('combined_out.json', 'wb') as jsonfile:
+    header = None
+    data = []
+    for row in readAllRows():
+      if header is None:
+        # Extract the header row first to set all the field names.
+        header = row
+        continue
+      data.append(dict(zip(header, row)))
+    json.dump(data, jsonfile)
+
+writeCsv()
